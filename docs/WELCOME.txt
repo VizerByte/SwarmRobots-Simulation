@@ -1,0 +1,7 @@
+Welcome to the Swarm Robots Simulation.
+
+Build with:
+  .\scripts\build.bat
+
+Run with:
+  .\build\swarm_sim.exe
